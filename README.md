@@ -4,4 +4,4 @@
 
 2nd Step: Get the weights file and the .names from there
 
-3rd Step is Object Tracking using DeepSort
+3rd Step is Object Tracking using DeepSort. Check this video to understand the working:   https://youtu.be/kBahrCeaoDQ
